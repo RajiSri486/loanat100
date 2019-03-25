@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "615559151070",
+    "firebase_url": "https://daysloan-7b563.firebaseio.com",
+    "project_id": "daysloan-7b563",
+    "storage_bucket": "daysloan-7b563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615559151070:android:b04db7765f20b742",
+        "android_client_info": {
+          "package_name": "com.hundreddaysloan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615559151070-508ij2bdtl0pr83h769f73ke9v3h72bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hundreddaysloan",
+            "certificate_hash": "630493f4a674cfb95b4e1eed785365f1620c32c1"
+          }
+        },
+        {
+          "client_id": "615559151070-v0qup1fgc7fa52asr001bm7vum5ku1mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCczRWr3VpVFHOQqVKycb6BMc9MN2IM9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615559151070-v0qup1fgc7fa52asr001bm7vum5ku1mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

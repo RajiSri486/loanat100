@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5BBC2E</color>
+    <color name="colorPrimaryDark">#50A327</color>
+    <color name="colorAccentPink">#FF4081</color>
+    <color name="colorAccent">#5BBC2E</color>
+    <color name="colorPrimaryText">#222222</color>
+    <color name="colorBorderGrey">#F2F2F2</color>
+    <color name="colorlightGrey">#BDBDBD</color>
+    <color name="red_800">#ffb93221</color>
+    <color name="red">#ff0000</color>
+    <color name="white">#ffffff</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="secondarytext" type="color">#ff808080</color>
+    <color name="white_trans_overlay">#66ffffff</color>
+
+</resources>
